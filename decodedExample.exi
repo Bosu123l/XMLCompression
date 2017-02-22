@@ -1,0 +1,256 @@
+SD
+SE(catalog)
+SE(book)
+AT(id:bk101)
+SE(author)
+CH(Gambardella, Matthew)
+EE
+SE(title)
+CH(XML Developer's Guide)
+EE
+SE(genre)
+CH(Computer)
+EE
+SE(price)
+CH(44.95)
+EE
+SE(publish_date)
+CH(2000-10-01)
+EE
+SE(description)
+CH(An in-depth look at creating applications       with XML.)
+EE
+EE
+SE(book)
+AT(id:bk102)
+SE(author)
+CH(Ralls, Kim)
+EE
+SE(title)
+CH(Midnight Rain)
+EE
+SE(genre)
+CH(Fantasy)
+EE
+SE(price)
+CH(5.95)
+EE
+SE(publish_date)
+CH(2000-12-16)
+EE
+SE(description)
+CH(A former architect battles corporate zombies,       an evil sorceress, and her own childhood to become queen       of the world.)
+EE
+EE
+SE(book)
+AT(id:bk103)
+SE(author)
+CH(Corets, Eva)
+EE
+SE(title)
+CH(Maeve Ascendant)
+EE
+SE(genre)
+CH(Fantasy)
+EE
+SE(price)
+CH(5.95)
+EE
+SE(publish_date)
+CH(2000-11-17)
+EE
+SE(description)
+CH(After the collapse of a nanotechnology       society in England, the young survivors lay the       foundation for a new society.)
+EE
+EE
+SE(book)
+AT(id:bk104)
+SE(author)
+CH(Corets, Eva)
+EE
+SE(title)
+CH(Oberon's Legacy)
+EE
+SE(genre)
+CH(Fantasy)
+EE
+SE(price)
+CH(5.95)
+EE
+SE(publish_date)
+CH(2001-03-10)
+EE
+SE(description)
+CH(In post-apocalypse England, the mysterious       agent known only as Oberon helps to create a new life       for the inhabitants of London. Sequel to Maeve       Ascendant.)
+EE
+EE
+SE(book)
+AT(id:bk105)
+SE(author)
+CH(Corets, Eva)
+EE
+SE(title)
+CH(The Sundered Grail)
+EE
+SE(genre)
+CH(Fantasy)
+EE
+SE(price)
+CH(5.95)
+EE
+SE(publish_date)
+CH(2001-09-10)
+EE
+SE(description)
+CH(The two daughters of Maeve, half-sisters,       battle one another for control of England. Sequel to       Oberon's Legacy.)
+EE
+EE
+SE(book)
+AT(id:bk106)
+SE(author)
+CH(Randall, Cynthia)
+EE
+SE(title)
+CH(Lover Birds)
+EE
+SE(genre)
+CH(Romance)
+EE
+SE(price)
+CH(4.95)
+EE
+SE(publish_date)
+CH(2000-09-02)
+EE
+SE(description)
+CH(When Carla meets Paul at an ornithology       conference, tempers fly as feathers get ruffled.)
+EE
+EE
+SE(book)
+AT(id:bk107)
+SE(author)
+CH(Thurman, Paula)
+EE
+SE(title)
+CH(Splish Splash)
+EE
+SE(genre)
+CH(Romance)
+EE
+SE(price)
+CH(4.95)
+EE
+SE(publish_date)
+CH(2000-11-02)
+EE
+SE(description)
+CH(A deep sea diver finds true love twenty       thousand leagues beneath the sea.)
+EE
+EE
+SE(book)
+AT(id:bk108)
+SE(author)
+CH(Knorr, Stefan)
+EE
+SE(title)
+CH(Creepy Crawlies)
+EE
+SE(genre)
+CH(Horror)
+EE
+SE(price)
+CH(4.95)
+EE
+SE(publish_date)
+CH(2000-12-06)
+EE
+SE(description)
+CH(An anthology of horror stories about roaches,      centipedes, scorpions  and other insects.)
+EE
+EE
+SE(book)
+AT(id:bk109)
+SE(author)
+CH(Kress, Peter)
+EE
+SE(title)
+CH(Paradox Lost)
+EE
+SE(genre)
+CH(Science Fiction)
+EE
+SE(price)
+CH(6.95)
+EE
+SE(publish_date)
+CH(2000-11-02)
+EE
+SE(description)
+CH(After an inadvertant trip through a Heisenberg      Uncertainty Device, James Salway discovers the problems       of being quantum.)
+EE
+EE
+SE(book)
+AT(id:bk110)
+SE(author)
+CH(O'Brien, Tim)
+EE
+SE(title)
+CH(Microsoft .NET: The Programming Bible)
+EE
+SE(genre)
+CH(Computer)
+EE
+SE(price)
+CH(36.95)
+EE
+SE(publish_date)
+CH(2000-12-09)
+EE
+SE(description)
+CH(Microsoft's .NET initiative is explored in       detail in this deep programmer's reference.)
+EE
+EE
+SE(book)
+AT(id:bk111)
+SE(author)
+CH(O'Brien, Tim)
+EE
+SE(title)
+CH(MSXML3: A Comprehensive Guide)
+EE
+SE(genre)
+CH(Computer)
+EE
+SE(price)
+CH(36.95)
+EE
+SE(publish_date)
+CH(2000-12-01)
+EE
+SE(description)
+CH(The Microsoft MSXML3 parser is covered in       detail, with attention to XML DOM interfaces, XSLT processing,       SAX and more.)
+EE
+EE
+SE(book)
+AT(id:bk112)
+SE(author)
+CH(Galos, Mike)
+EE
+SE(title)
+CH(Visual Studio 7: A Comprehensive Guide)
+EE
+SE(genre)
+CH(Computer)
+EE
+SE(price)
+CH(49.95)
+EE
+SE(publish_date)
+CH(2001-04-16)
+EE
+SE(description)
+CH(Microsoft Visual Studio 7 is explored in depth,      looking at how Visual Basic, Visual C++, C#, and ASP+ are       integrated into a comprehensive development       environment.)
+EE
+EE
+EE
+ED
