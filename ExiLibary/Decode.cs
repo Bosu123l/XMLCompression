@@ -36,7 +36,7 @@ namespace ExiLibary
                     decompressedXML += Helper.AddWithNewLine(node);
                     _rememberedNodeNames.Push(nodeName);
                 }
-                if (line.Contains(ConstantsMarks.SC))
+                if (line.Contains(ConstantsMarks.CM))
                 {
                     string commentaryValue = string.Format("<!--{0}-->", line.Split('(', ')')[1]);
 

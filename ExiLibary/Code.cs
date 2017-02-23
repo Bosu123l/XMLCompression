@@ -43,7 +43,7 @@ namespace ExiLibary
                 }
                 if (node.Name.Equals(ConstantsMarks.comment))
                 {
-                    _compressed.Add(string.Format("{0}({1})", ConstantsMarks.SC, node.Value));
+                    _compressed.Add(string.Format("{0}({1})", ConstantsMarks.CM, node.Value));
                 }
                 else if (!node.Name.Equals(ConstantsMarks.text) && !node.Name.Equals(ConstantsMarks.xml)) //)
                 {

@@ -12,6 +12,7 @@
         public const string AT = "AT";
         public const string CH = "CH";
         public const string EE = "EE";
-        public const string SC = "SC";
+        public const string CM = "CM";
+
     }
 }
